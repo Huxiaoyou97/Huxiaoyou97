@@ -4,8 +4,8 @@
 ### I'm Huxiaoyou
 
 - 小码农
-- ⚡ `JavaScript` && `Vue` && `Node` && `Golang` && `Flutter`
-- 💬 邮箱，欢迎一起讨论学习：[huxiaoyou888@gmail.com](mailto:machhulie@gmail.com)
+- ⚡ `JavaScript` && `TypeScript` && `Vue` && `React` && `Node` && `Golang` && `Flutter`
+- 💬 邮箱，欢迎一起讨论学习：[huxiaoyou888@gmail.com](mailto:huxiaoyou888@gmail.com)
 
 
 
