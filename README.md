@@ -1,4 +1,4 @@
-## 胡小右 👋
+## Huxiaoyou 👋
 ---
 
 ### I'm Huxiaoyou
